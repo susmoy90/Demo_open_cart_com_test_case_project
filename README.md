@@ -129,3 +129,12 @@
 [Bug report](https://docs.google.com/spreadsheets/d/1r5DbLXsnvCY_RBf9-IRD72fl5iAC7EPKYt5gyf-hN58/edit?gid=887897414#gid=887897414)  
 
 ---
+
+## 📎 Social media Links
+[linkedin](https://www.linkedin.com/in/susmoy-das-90605a124/)
+
+[Facebook](https://www.facebook.com/share/1MeVxTJkdX/)
+
+---
+## 📎 Find social media post link
+[linkedin]()
