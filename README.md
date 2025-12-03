@@ -137,4 +137,4 @@
 
 ---
 ## 📎 Find social media post link
-[linkedin]()
+[linkedin](https://www.linkedin.com/posts/susmoy-das-90605a124_im-happy-to-share-this-functional-testing-activity-7401578968069672961-ww8F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6enZYB3N35KaEPe7GCMJSqsZ4m76eSifA)
