@@ -1,7 +1,7 @@
-# 📊 Total Test Case Summary Report – 4 Modules
+# 📊 Demo_open_cart_com_test_case_project
 
 ## 📌 Project Information  
-**Project Name:** Module-wise Test Case Summary Report  
+**Project Name:** Demo_open_cart_com_test_case_project
 **Report Date:** 26-November-2025  
 **Delivery Date:** 12/2/2025  
 **Test Start Date:** 20-November-2025  
